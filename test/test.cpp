@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "no" << endl;
-	cout << "yes" << endl;
+	cout << "这是怎么回事呢" << endl;
 	return 0;
 }
