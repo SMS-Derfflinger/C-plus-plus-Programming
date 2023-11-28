@@ -119,9 +119,6 @@ Node* reverse(Node* head)
 
 int main()
 {
-<<<<<<< HEAD
-	cout << "这是怎么回事呢" << endl;
-=======
 	Node* head = new Node(1, nullptr);
 	add(head, 2);
 	add(head, 3);
@@ -133,7 +130,6 @@ int main()
 	print(head);
 	head = reverse(head);
 	print(head);
->>>>>>> parent of 2e59ce9 (111)
 	return 0;
 }
 
